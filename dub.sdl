@@ -1,0 +1,6 @@
+name "ThermalImageMap"
+description "DLang example. Digital image processing. Thermal image map."
+authors "aquaratixc"
+copyright "LightHouse Software"
+license "MIT"
+dependency "dlib" version="~>0.12.2"
